@@ -17,7 +17,7 @@ Bot from Mate Academy marathone. This Bot get data from file.csv and use their i
 ![All titles](https://github.com/RoMANzhula/My_Telegram_Bot_From_Mate/blob/master/src/main/java/com/example/mate_telegram_bot/images/Choose%20all%20titles.png)
 
 ## Choose vacancy
-* As example we chose Middle/Senior Java Developer
+* As example we chose Middle/Senior Java Developer.
 
 ![Chose vacancy](https://github.com/RoMANzhula/My_Telegram_Bot_From_Mate/blob/master/src/main/java/com/example/mate_telegram_bot/images/Choose%20vacancy.png)
 
